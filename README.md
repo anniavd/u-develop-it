@@ -30,6 +30,7 @@ The database is built with Sqlite3 ans have 4 tables.
 
 
 # Usage
+- the user can interact with the API from the insomnia app or others similar:
 - The user can insert new candidates to the candidate table by running the query:
 > - INSERT INTO candidates (industry_connected, last_name, first_name)
 VALUES (1, 'Firbank', 'Ronald' );
